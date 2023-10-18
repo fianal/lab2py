@@ -1,7 +1,7 @@
 Latihan1
 
-<p1>Menjalankan Python Di VScode</p1>
-<p2>Menampilkan tulisan "Hello" dilayar</p2>
-<p3>Menampilkan tulisan"Sedang belajar python" dilayar </p3>
+<p>Menjalankan Python Di VScode</p>
+<p>Menampilkan tulisan "Hello" dilayar</p>
+<p>Menampilkan tulisan"Sedang belajar python" dilayar </p>
 
  ![gambar](dokumentasi/latihan1.png)
