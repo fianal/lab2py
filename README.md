@@ -1,4 +1,4 @@
-<h1>Latihan1</h1>
+Latihan1
 
 Menjalankan Python Di VScode
 Menampilkan tulisan "Hello" dilayar
